@@ -4,6 +4,7 @@
 
 双击 `PitchStorm.html` 就能玩，也可以放到任意静态服务器上。
 
+[▶ 在线试玩 PitchStorm](https://123ysz123.github.io/PitchStorm/PitchStorm.html)
 ---
 
 ## 免责声明 / Disclaimer
