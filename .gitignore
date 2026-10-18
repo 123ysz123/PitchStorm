@@ -1,0 +1,39 @@
+# ---------- 运行时生成 ----------
+# server.py 写入的存档与比赛记录
+data/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---------- 系统文件 ----------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---------- 编辑器 / IDE ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- AI 工具本地工作目录 ----------
+.workbuddy-ai/
+
+# ---------- 日志与临时文件 ----------
+*.log
+*.tmp
+*.temp
